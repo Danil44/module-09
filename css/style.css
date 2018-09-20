@@ -216,6 +216,7 @@
     .logo {
         padding-top: 4px;
         padding-left: 2px;
+        cursor: pointer;
     }
 
     .btns-group-header {
